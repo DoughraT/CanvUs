@@ -23,7 +23,7 @@ A video demo of the project may be seen here: [**CanvUs Final Project Demo**](ht
 
 <br></br>
 
-## Built With
+# Built With
 <p> For more information on how these techonologies and languages were used, please refer to the Final Report. </p>
 
 - React
@@ -38,7 +38,7 @@ A video demo of the project may be seen here: [**CanvUs Final Project Demo**](ht
 
 <br></br>
 
-## Functionalities Implemented
+# Functionalities Implemented
 1. Create a new account with CanvUs. <br>
 2. Login to a previously created account. <br>
 3. View previously created and shared canvases. <br>
@@ -53,7 +53,7 @@ A video demo of the project may be seen here: [**CanvUs Final Project Demo**](ht
 
 <br></br>
 
-## Authors
+# Authors
 
 [**Kaitlin de Chastelain Finnigan**](https://github.com/kaitlin31415)
 
