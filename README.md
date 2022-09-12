@@ -2,8 +2,7 @@
 
 <p align="center"> Related Course: SENG 513 ‑ Web‑Based Systems | Group 23 </p>
 
-<p> A virtual whiteboard space in which various users may come together in order to digitally collaborate by using the team space to visually repre‑
-sent ideas and processes and discuss them in real‑time with an implemented chat function. Created and designed using <b>Figma</b>. 
+<p> A virtual whiteboard space in which various users may come together in order to digitally collaborate by using the team space to visually represent ideas and processes and discuss them in real‑time with an implemented chat function. Created and designed using <b>Figma</b>. 
  
   For more information and details, project intermediate and final reports can be found in PDF format in the repository. </p>
 
